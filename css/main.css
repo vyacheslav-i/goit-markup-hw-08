@@ -677,6 +677,8 @@ section {
 
 .team__subtitle {
   margin-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
@@ -686,6 +688,8 @@ section {
 
 .team__text {
   margin-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
